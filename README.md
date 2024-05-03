@@ -8,6 +8,7 @@
 <a href="https://github-yashagarwal.github.io/CarePoint/">View Demo .</a>  
 <a href="https://github.com/GitHub-YashAgarwal/CarePoint/issues/new">Report Bug .</a>
 <a href="https://github.com/GitHub-YashAgarwal/CarePoint/issues/new">Request Feature</a>
+<br>
 </p>
 </div>
 
